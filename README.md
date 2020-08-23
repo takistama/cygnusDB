@@ -13,7 +13,8 @@ CygnusDB is a lightweight python database that uses no external libraries.
 
 ### Installation
 
-Currently CygnusDB is not on PyPi, so you have to clone the repo and execute `pip install .` in the root directory of the project.
+Woohoo! CygnusDB is now on PyPi: https://pypi.org/project/cygnusdb/
+Just install it with `pip install cygnusdb`
 
 ### Usage
 
