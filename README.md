@@ -5,6 +5,8 @@ CygnusDB is a lightweight python database that uses no external libraries.
   - Uses JSON for data storage with the .db file extension.
   - Uses OS for file path.
   - Basic functionality: `set`, `get`, `delete`, and `reset`
+  
+Note: `set` = `update` meaning that this is indeed a CRUD.
 
 ## Why use CygnusDB?
 
