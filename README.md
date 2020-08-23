@@ -15,8 +15,7 @@ Note: `set` = `update` meaning that this is indeed a CRUD.
 
 ### Installation
 
-Woohoo! CygnusDB is now on PyPi: https://pypi.org/project/cygnusdb/
-Just install it with `pip install cygnusdb`
+Woohoo! CygnusDB is now on PyPi: https://pypi.org/project/cygnusdb/ . Just install it with `pip install cygnusdb`
 
 ### Usage
 
